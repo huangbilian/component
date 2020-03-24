@@ -51,7 +51,7 @@ $(function(){
     className:"htCenter htMiddle",
     contextMenu:true,
     manualColumnResize: true,
-    manualRowResize: true
+    manualRowResize: true,
   };
   new Handsontable(excel,eSettings);
 })
